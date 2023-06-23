@@ -1,0 +1,103 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "0704888819",
+      "content": "anhnvph26494@fpt.edu.vn",
+      "image": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600.jpg",
+      "name": "Nguyễn Việt Anh",
+      "age": "19",
+      "position": "Deverloper Web"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "name": "Hoang Anh Dung",
+      "age": "19",
+      "image": "http://127.0.0.1:5500/image/user-img.png",
+      "position": "Front-end developer"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "name": "Nguyen Viet Anh",
+      "describe": "Web Deverloper"
+    }
+  ],
+  "portfolio": [
+    {
+      "img": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600.jpg",
+      "name": "Thanh Xuân Của Tôi",
+      "describe": "Album cấp 3",
+      "id": "Klajbe5"
+    },
+    {
+      "img": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600.jpg",
+      "name": "Dự Án 1",
+      "describe": "FPT Poly Kì 4 ",
+      "id": "Wur3GLa"
+    },
+    {
+      "img": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600.jpg",
+      "name": "Dự Án Mẫu",
+      "describe": "FPT",
+      "id": "6462TE_"
+    },
+    {
+      "img": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600.jpg",
+      "name": "Dự Án Mẫu",
+      "describe": "FPT Poly Kì 4",
+      "id": "vyNyqxl"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "name": "Nguyen Viet Anh",
+      "email": "dunghaph19791@fpt.edu.vn",
+      "subject": "subject",
+      "message": "Hello World"
+    }
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "name": "Home",
+      "path": "/home"
+    },
+    {
+      "id": "2",
+      "name": "About",
+      "path": "/about"
+    },
+    {
+      "id": "3",
+      "name": "Services",
+      "path": "/services"
+    },
+    {
+      "id": "4",
+      "name": "Portfolio",
+      "path": "/portfolio"
+    },
+    {
+      "id": "5",
+      "name": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "skill": [
+    {
+      "id": "1",
+      "name": "web design",
+      "progress": "90"
+    },
+    {
+      "id": "2",
+      "name": "HTML",
+      "progress": "85"
+    }
+  ]
+}
